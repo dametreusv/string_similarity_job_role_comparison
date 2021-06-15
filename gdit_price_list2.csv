@@ -1,0 +1,136 @@
+Technical Expert 5, 102.75, 104.94, 107.19, 109.48, 111.83, 114.22
+Technical Expert 4, 116.60, 119.09, 121.64, 124.24, 126.90, 129.62
+Technical Expert 3, 168.37, 171.97, 175.65, 179.41, 183.25, 187.17
+Technical Expert 2, 206.61, 211.03, 215.54, 220.16, 224.87, 229.68
+Technical Expert 1, 304.54, 311.06, 317.72, 324.52, 331.46, 338.56
+Project Manager/Task Lead, 124.61, 127.28, 130.00, 132.79, 135.63, 138.53
+Program Manager, 136.72, 139.64, 142.63, 145.68, 148.80, 151.98
+Sr. Program Manager, 167.36, 170.94, 174.60, 178.34, 182.15, 186.05
+Proprietary Product Application Developer, 120.25, 122.82, 125.45, 128.13, 130.88, 133.68
+Proprietary Product Application Designer, 120.25, 122.82, 125.45, 128.13, 130.88, 133.68
+Proprietary Product Database Administrator, 115.85, 118.33, 120.86, 123.45, 126.09, 128.79
+Proprietary Product System Architect, 117.42, 119.93, 122.50, 125.12, 127.80, 130.53
+Business Process Reengineering Analyst, 99.37, 101.49, 103.67, 105.88, 108.15, 110.46
+Scientist, 89.51, 91.42, 93.38, 95.38, 97.42, 99.50
+Staff Scientist, 114.70, 117.15, 119.66, 122.22, 124.83, 127.50
+Sr. Scientist, 137.49, 140.44, 143.44, 146.51, 149.65, 152.85
+Principal Scientist, 168.23, 171.83, 175.51, 179.26, 183.10, 187.02
+Sr. Principal Scientist, 195.16, 199.33, 203.60, 207.96, 212.41, 216.95
+Jr. Systems Engineer, 76.89, 78.54, 80.22, 81.93, 83.69, 85.48
+Systems Engineer, 93.49, 95.49, 97.53, 99.62, 101.75, 103.93
+Staff Systems Engineer, 115.17, 117.64, 120.16, 122.73, 125.35, 128.04
+Sr. Systems Engineer, 122.43, 125.05, 127.73, 130.46, 133.25, 136.10
+Principal Systems Engineer, 128.88, 131.64, 134.46, 137.34, 140.28, 143.28
+Sr. Principal Systems Engineer, 172.79, 176.49, 180.27, 184.12, 188.06, 192.09
+Information Engineer, 117.42, 119.93, 122.50, 125.12, 127.80, 130.53
+Sr. Information Engineer, 129.59, 132.36, 135.20, 138.09, 141.04, 144.06
+Principal Information Engineer, 153.77, 157.06, 160.42, 163.86, 167.36, 170.94
+Jr. Software Engineer, 74.47, 76.06, 77.69, 79.35, 81.05, 82.79
+Software Engineer, 87.46, 89.33, 91.24, 93.20, 95.19, 97.23
+Staff Software Engineer, 98.56, 100.67, 102.83, 105.03, 107.28, 109.57
+Sr. Software Engineer, 123.04, 125.67, 128.36, 131.11, 133.91, 136.78
+Principal Software Engineer, 172.48, 176.17, 179.94, 183.79, 187.73, 191.74
+Software Architect, 161.09, 164.54, 168.06, 171.66, 175.33, 179.08
+Computer Security Specialist, 98.07, 100.17, 102.32, 104.51, 106.74, 109.03
+Sr. Computer Security Systems Specialist, 138.02, 140.97, 143.99, 147.07, 150.22, 153.43
+Jr. Database Architect, 78.59, 80.27, 81.99, 83.74, 85.53, 87.36
+Database Architect, 87.36, 89.22, 91.13, 93.08, 95.08, 97.11
+Sr. Database Architect, 110.47, 112.83, 115.25, 117.72, 120.23, 122.81
+Computer Programmer/Analyst, 78.71, 80.39, 82.11, 83.87, 85.66, 87.50
+Staff Computer Programmer/Analyst, 110.69, 113.06, 115.48, 117.95, 120.47, 123.05
+Sr. Computer Programmer/Analyst, 114.30, 116.75, 119.25, 121.80, 124.41, 127.07
+Principal Computer Programmer/Analyst, 134.29, 137.17, 140.10, 143.10, 146.16, 149.29
+Computer Systems Programmer, 106.10, 108.37, 110.69, 113.06, 115.47, 117.95
+Web Designer, 77.77, 79.44, 81.14, 82.87, 84.64, 86.46
+Web Developer, 90.55, 92.48, 94.46, 96.48, 98.55, 100.66
+Sr. Web Developer, 123.30, 125.94, 128.63, 131.39, 134.20, 137.07
+Web Tech Administrator, 89.15, 91.05, 93.00, 94.99, 97.02, 99.10
+Web Content Manager, 87.28, 89.14, 91.05, 93.00, 94.99, 97.02
+Web Security Administrator, 87.44, 89.31, 91.22, 93.17, 95.17, 97.20
+Computer Systems Analyst, 87.85, 89.73, 91.65, 93.61, 95.62, 97.66
+Staff Computer Systems Analyst, 102.80, 105.00, 107.25, 109.54, 111.89, 114.28
+Sr. Computer Systems Analyst, 117.54, 120.05, 122.62, 125.24, 127.92, 130.66
+Principal Computer Systems Analyst, 142.03, 145.07, 148.17, 151.34, 154.58, 157.89
+Legacy System Analyst, 116.50, 118.99, 121.54, 124.14, 126.80, 129.51
+Jr. Functional Analyst/Specialist, 65.31, 66.71, 68.14, 69.59, 71.08, 72.60
+Functional Analyst/Specialist, 77.25, 78.90, 80.59, 82.32, 84.08, 85.88
+Sr. Functional Analyst/Specialist, 99.37, 101.49, 103.67, 105.88, 108.15, 110.46
+Principal Functional Analyst/Specialist, 104.26, 106.49, 108.77, 111.10, 113.48, 115.91
+Sr. Principal Functional Analyst/Specialist, 145.05, 148.16, 151.33, 154.56, 157.87, 161.25
+Data Management Specialist, 115.85, 118.33, 120.86, 123.45, 126.09, 128.79
+Data Administrator, 111.30, 113.68, 116.11, 118.59, 121.13, 123.72
+Data Manager, 142.96, 146.02, 149.15, 152.34, 155.60, 158.93
+Computer Operations Manager, 86.31, 88.16, 90.04, 91.97, 93.94, 95.95
+Sr. Computer Operations Manager, 126.69, 129.40, 132.17, 135.00, 137.89, 140.84
+Communications Engineer, 115.67, 118.15, 120.68, 123.26, 125.90, 128.59
+Sr. Communications Engineer, 132.50, 135.34, 138.24, 141.19, 144.22, 147.30
+Jr. Network Engineer, 77.78, 79.45, 81.15, 82.88, 84.66, 86.47
+Network Engineer, 87.04, 88.90, 90.80, 92.75, 94.73, 96.76
+Staff Network Engineer, 108.03, 110.34, 112.70, 115.11, 117.57, 120.09
+Sr. Network Engineer, 117.59, 120.11, 122.68, 125.30, 127.98, 130.72
+Principal Network Engineer, 159.19, 162.59, 166.07, 169.63, 173.26, 176.97
+Network Administrator, 100.43, 102.58, 104.78, 107.02, 109.31, 111.65
+Sr. Network Administrator, 124.59, 127.26, 129.98, 132.76, 135.60, 138.51
+Network/Computer Support Specialist, 82.05, 83.80, 85.60, 87.43, 89.30, 91.21
+Computer System/Network Integration Engineer, 89.15, 91.05, 93.00, 94.99, 97.02, 99.10
+Sr. Telecommunications Analyst, 83.05, 84.83, 86.64, 88.50, 90.39, 92.33
+Communications Network Manager, 104.56, 106.80, 109.08, 111.42, 113.80, 116.24
+Hardware Specialist, 88.90, 90.80, 92.75, 94.73, 96.76, 98.83
+Quality Assurance/IV&V Analyst, 79.61, 81.31, 83.05, 84.83, 86.64, 88.50
+Quality Assurance/IV&V Specialist, 82.40, 84.16, 85.96, 87.80, 89.68, 91.60
+Quality Assurance/IV&V Manager, 133.59, 136.45, 139.37, 142.35, 145.39, 148.51
+Configuration Management Specialist, 99.39, 101.52, 103.69, 105.91, 108.17, 110.49
+Sr. Configuration Management Specialist, 120.25, 122.82, 125.45, 128.13, 130.88, 133.68
+Training Specialist/Instructor, 74.91, 76.52, 78.15, 79.83, 81.54, 83.28
+Sr. Training Specialist/Instructor, 99.23, 101.35, 103.52, 105.74, 108.00, 110.31
+Training Specialist, 74.91, 76.52, 78.15, 79.83, 81.54, 83.28
+Sr. Training Specialist, 99.12, 101.25, 103.41, 105.63, 107.89, 110.19
+Principal Training Specialist, 119.57, 122.13, 124.75, 127.42, 130.14, 132.93
+Testing and Validation Specialist, 68.29, 69.75, 71.25, 72.77, 74.33, 75.92
+Principal Testing and Validation Specialist, 108.12, 110.44, 112.80, 115.21, 117.68, 120.20
+Instructional System Designer, 85.85, 87.69, 89.57, 91.48, 93.44, 95.44
+Sr. Instructional System Designer, 102.18, 104.37, 106.60, 108.88, 111.21, 113.59
+Staff Graphics Design Specialist, 77.56, 79.22, 80.91, 82.64, 84.41, 86.22
+Sr. Graphics Design Specialist, 89.44, 91.35, 93.31, 95.30, 97.34, 99.43
+Principal Graphics Design Specialist, 108.12, 110.44, 112.80, 115.21, 117.68, 120.20
+Contract Administrator, 77.94, 79.61, 81.32, 83.06, 84.83, 86.65
+Sr. Contract Administrator, 104.56, 106.80, 109.08, 111.42, 113.80, 116.24
+Program Management Specialist, 75.63, 77.25, 78.90, 80.59, 82.32, 84.08
+Sr. Program Management Specialist, 99.69, 101.83, 104.01, 106.23, 108.51, 110.83 
+Principal Program Management Specialist, 114.91, 117.37, 119.88, 122.45, 125.07, 127.75
+Sr. Documentation Specialist, 93.57, 95.57, 97.61, 99.70, 101.84, 104.02
+Technical Editor, 98.00, 100.10, 102.24, 104.43, 106.66, 108.94
+Imagery Analyst, 108.96, 111.30, 113.68, 116.11, 118.59, 121.13
+Imagery Sr. Analyst, 125.30, 127.98, 130.72, 133.52, 136.37, 139.29
+Imagery Principal Analyst, 144.54, 147.63, 150.79, 154.02, 157.31, 160.68
+Imagery Sr. Principal Analyst, 191.18, 195.27, 199.45, 203.72, 208.08, 212.53
+Geospatial Analyst, 115.75, 118.23, 120.76, 123.34, 125.98, 128.68
+Geospatial Sr. Analyst, 133.10, 135.95, 138.86, 141.83, 144.87, 147.97
+Geospatial Principal Analyst, 149.13, 152.32, 155.58, 158.91, 162.31, 165.79
+Geospatial Sr. Principal Analyst, 191.18, 195.27, 199.45, 203.72, 208.08, 212.53
+Jr. Computer Programmer/Analyst, 64.26, 65.64, 67.04, 68.48, 69.94, 71.44
+Jr. Computer Systems Analyst, 67.36, 68.80, 70.27, 71.77, 73.31, 74.88
+System Administrator/Operator, 63.92, 65.29, 66.69, 68.11, 69.57, 71.06
+Jr. Computer Operator, 46.13, 47.11, 48.12, 49.15, 50.20, 51.28
+Computer Operator, 51.64, 52.75, 53.88, 55.03, 56.21, 57.41
+Network/Computer Support Technician, 63.92, 65.29, 66.69, 68.11, 69.57, 71.06
+Sr. Network/Computer Support Technician, 70.83, 72.35, 73.89, 75.47, 77.09, 78.74
+Telecommunications Analyst, 76.92, 78.56, 80.25, 81.96, 83.72, 85.51
+Jr. Help Desk Technician, 57.54, 58.77, 60.03, 61.31, 62.62, 63.96
+Help Desk Technician, 63.92, 65.29, 66.69, 68.11, 69.57, 71.06
+Sr. Help Desk Technician, 70.83, 72.35, 73.89, 75.47, 77.09, 78.74
+Electronics/Electrical Technician, 64.53, 65.91, 67.32, 68.76, 70.23, 71.74
+Logistics Specialist, 69.60, 71.09, 72.61, 74.17, 75.75, 77.37
+Jr. Graphics Design Specialist, 49.94, 51.00, 52.10, 53.21, 54.35, 55.51
+Graphics Design Specialist, 61.88, 63.20, 64.55, 65.93, 67.34, 68.79
+Videographer/Editor, 57.71, 58.94, 60.20, 61.49, 62.81, 64.15
+Jr. Program Management Specialist, 76.58, 78.21, 79.89, 81.60, 83.34, 85.13
+Jr. Program Support Specialist, 39.60, 40.44, 41.31, 42.19, 43.10, 44.02
+Program Support Specialist, 45.69, 46.67, 47.67, 48.69, 49.73, 50.79
+Sr. Program Support Specialist, 76.58, 78.21, 79.89, 81.60, 83.34, 85.13
+Jr. Admin/Data Analyst, 35.06, 35.81, 36.58, 37.36, 38.16, 38.98
+Admin/Data Analyst, 38.25, 39.07, 39.90, 40.76, 41.63, 42.52
+Documentation Specialist, 65.44, 66.84, 68.27, 69.73, 71.23, 72.75
+Technical Writer, 79.17, 80.86, 82.59, 84.36, 86.16, 88.01
+Technical Typist, 38.10, 38.91, 39.75, 40.60, 41.47, 42.35
+Data Entry Clerk, 35.06, 35.81, 36.58, 37.36, 38.16, 38.98 
